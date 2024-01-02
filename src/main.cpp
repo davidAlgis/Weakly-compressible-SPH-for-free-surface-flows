@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <memory.h>
-#include <GLUT/glut.h>
-#include <OpenGL/gl.h>
+#include <GL/glut.h>
+#include <GL/gl.h>
 
 #define kScreenWidth 500
 #define kScreenHeight 500
