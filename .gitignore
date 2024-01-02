@@ -1,1 +1,6 @@
-**xcuserdata*
+.vs
+*.sln
+*.vcxproj
+*.vcxproj.user
+bin
+temp
